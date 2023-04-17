@@ -1,0 +1,2 @@
+# Al-Kheima
+ Another landing page just to revise on Flexbox/Grid containers and their behaviors. I tried showcasing responsive flexbox and cards collection. I added more more simple animations, like the nav-bar and the flex-box. Other complex ones for the team cards and the form. I didn't use a framework for styling hence the long style.css page. Used a little bit more javascript for the responsive icons, client-side form validation, and regex to instantly format the phone number while the user is writing it down.
